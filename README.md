@@ -7,7 +7,7 @@ This is a web based application developed for Lifestyle related based website in
 
 
 **[Project Link](https://purple-rock-054e0da00.2.azurestaticapps.net/)** -
-**[project demo video link](https://www.youtube.com/watch?v=OWJL6ctC2cw&t=266s)** - 
+**[project demo video link](https://www.youtube.com/watch?v=OWJL6ctC2cw)** - 
 
 ## Azure technologies used for Project
 
